@@ -1,19 +1,6 @@
 
 <img src=https://github.com/Amayakof/Amayakof/blob/a0bd84b0ba5fbf76ec28b2c08cb5cc2ab9c55bd4/3.png alt="Banner of ioiiiomio">
 Hi ✌️I'm Zhaniya ✨ 
-  
-
-<a href="https://github.com/Amayakof" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ioiiiomio" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ioiiiomio" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
 
 
 ### Glad to see you here!  
@@ -93,9 +80,16 @@ See ya in my projects. Let's make this place better together ✌️
 
   
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=amayakof&&style=flat-square)  
+<a href="https://github.com/Amayakof" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ioiiiomio" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ioiiiomio" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
   
 
 <br/>  
