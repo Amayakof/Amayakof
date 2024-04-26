@@ -1,6 +1,6 @@
 
 <img src=https://github.com/Amayakof/Amayakof/blob/a0bd84b0ba5fbf76ec28b2c08cb5cc2ab9c55bd4/3.png alt="Banner of ioiiiomio">
-## Hi ✌️I'm Zhaniya ✨  
+## Hi ✌️I'm Zhaniya ✨##  
   
 
 <a href="https://github.com/Amayakof" target="_blank">
