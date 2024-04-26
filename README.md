@@ -1,5 +1,5 @@
-https://github.com/Amayakof/Amayakof/blob/a0bd84b0ba5fbf76ec28b2c08cb5cc2ab9c55bd4/3.png
 
+<img src=https://github.com/Amayakof/Amayakof/blob/a0bd84b0ba5fbf76ec28b2c08cb5cc2ab9c55bd4/3.png alt="Banner of ioiiiomio">
 ## Hi ✌️I'm Zhaniya ✨  
   
 
@@ -39,7 +39,7 @@ See ya in my projects. Let's make this place better together ✌️
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/Amayakof/Amayakof/blob/8852938bdf109737b06315073dab8cc4f94f8ba2/wohoo.png" align="center" style="width: 100%" />
+<img src="https://github.com/Amayakof/Amayakof/blob/b0b632fefc143ca1480173136d887ed6a1715e2a/See%20ya!.png" align="center" style="width: 100%" />
 </div>  
 
 
